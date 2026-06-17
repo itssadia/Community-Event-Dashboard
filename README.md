@@ -35,4 +35,5 @@ src/
   App.jsx             # Root component with state management
   index.js            # React entry point
 ```
+<img width="1300" height="913" alt="image" src="https://github.com/user-attachments/assets/4048d562-1a24-4764-9e3e-7c51f1b29ed3" />
 
